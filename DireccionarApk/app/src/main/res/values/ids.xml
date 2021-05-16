@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="btninstagram" type="id">btninstagram</item>
+    <item name="btnyoutube" type="id">btnyoutube</item>
+    <item name="btnbuscador" type="id">btnbuscador</item>
+    <item name="btnfacebook" type="id">btnfacebook</item>
+    <item name="facebook" type="id">facebook</item>
+</resources>
